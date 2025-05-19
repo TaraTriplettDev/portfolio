@@ -21,7 +21,7 @@ function ContactsSample() {
   return (
     <ListGroup>
       <ListGroup.Item variant="dark">Contact</ListGroup.Item>
-      <ListGroup.Item>ttriplett.prsvr@Gmail.com</ListGroup.Item>
+      <ListGroup.Item>ttriplettl6a4@Gmail.com</ListGroup.Item>
       <ListGroup.Item>(865)-304-0636</ListGroup.Item>
       <ListGroup.Item variant="success" action href="https://github.com/TaraTriplettDev">GitHub</ListGroup.Item>
       <ListGroup.Item variant="primary" action href="#link2">
@@ -38,7 +38,7 @@ export default function AppHome() {
       <Container fluid>
         <div className="title-holder">
           <h2>Welcome to my Portfolio!</h2>
-          <div className="subtitle">I am Tara Bell, a Full-Stack student under the Persevere program with an interest in web and software development.</div>
+          <div className="subtitle">I am Tara Bell, a Persevere graduate with an interest in web and software development.</div>
         </div>
         <br></br>
         <br></br>

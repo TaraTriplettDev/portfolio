@@ -24,6 +24,8 @@ export default function AppEducation(){
           <Col sm={6}>
           <ListGroup>
             <ListGroup.Item variant="dark">Persevere</ListGroup.Item>
+            <ListGroup.Item>Front-End Development</ListGroup.Item>
+            <ListGroup.Item>Back-End Development</ListGroup.Item>
           </ListGroup>
           </Col>
           </Row>
